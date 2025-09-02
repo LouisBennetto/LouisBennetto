@@ -1,7 +1,7 @@
-<h1>Hi, I'm Louis!</h1>
+<h1>Louis Bennetto</h1>
 
 <h2>About me</h2>
-<a>I am a Mathematics Student at Durham University with particular interest in probability, statistics and numberical methods and their applications in quantitative finance and biological modeling.</a>
+<a>I am a Mathematics Student at Durham University with particular interest in probability, statistics and numerical methods and their applications in computional finance and biological modeling.</a>
 
 <h2>👨‍💻 Projects:</h2>
 
