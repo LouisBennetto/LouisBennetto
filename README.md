@@ -5,10 +5,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Quant Finance</b>
+- <b>Monte Carlo</b>
   - [](https://github.com/LouisBennetto/)
-- <b></b>
-  - [](https://github.com/LouisBennetto/)
+  - 
 
 <h2> 🤳 Connect with me:</h2>
 
