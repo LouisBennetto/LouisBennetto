@@ -1,15 +1,18 @@
-<h1>Hi, I'm Louis! <br/> <a>Mathematics Student</a>, <a>Programmer</a></h1>
+<h1>Louis Bennetto<br/> <a>Mathematics Student passionate about Quantitative Finance and Biological Modeling</a></h1>
 
-<h2>👨‍💻 Quantitative Finance Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Python</b>
+- <b>Monte Carlo</b>
   - [](https://github.com/LouisBennetto/)
-- <b>R</b>
+- <b></b>
   - [](https://github.com/LouisBennetto/)
 
 <h2> 🤳 Connect with me:</h2>
 
-- <b>[Linkedin](https://www.linkedin.com/in/louis-bennetto)</b>
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/louis-bennetto
+
 
 <!--
 **LouisBennetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
