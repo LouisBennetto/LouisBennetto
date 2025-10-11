@@ -6,7 +6,9 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Current:</b>
-  - [](https://github.com/LouisBennetto/)
+  - [Learning Game strategies](https://github.com/LouisBennetto/Learning-Game-Strategies/)
+  - [EEG and Phi Consciousness Research](https://github.com/LouisBennetto/Canaham/)
+  - [Monte Carlo Pi estimation using different N-spheres](https://github.com/LouisBennetto/Pi-MC/)
 
 <h2> 🤳 Connect with me:</h2>
 
