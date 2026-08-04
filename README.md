@@ -20,7 +20,7 @@ Prices a down-and-out barrier option by five independent routes and reconciles t
 - Crank-Nicolson PDE solver and the Rubinstein-Reiner closed form agree to
   **1.2e-4** relative, from entirely unrelated error sources
 - Monte Carlo and the Broadie-Glasserman-Kou discrete-monitoring correction agree
-  to within **1.06 standard errors**
+  to within 1.06 standard errors
 - Shows antithetic variance reduction *decays* as the barrier approaches spot,
   from 2.00x to 1.08x, which is the opposite of the usual intuition
 
@@ -50,11 +50,11 @@ Extends the dissertation into the market-making model above, keeping the propert
 that made the original work: an optimum that can be computed exactly and used as a
 benchmark.
 
-- Shows the Avellaneda-Stoikov closed form is an **asymptotic approximation**,
+- Shows the Avellaneda-Stoikov closed form is an asymptotic approximation,
   over-skewing once inventory skew becomes comparable to the spread
 - Shows the inventory penalty used in practice is a mean-variance expansion of
   exponential utility, calibrated in closed form by **λ = γσ²Δt / 2**
-- Finds potential-based shaping **degrades** the objective it was meant to help,
+- Finds potential-based shaping degrades the objective it was meant to help,
   by -0.063 in expected wealth, whilst appearing to improve it by +0.057 on a
   risk-adjusted metric. Both intervals exclude zero and the sign depends entirely
   on which functional the agent is scored against
