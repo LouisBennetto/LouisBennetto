@@ -20,21 +20,6 @@ BSc dissertation comparing seven reward-design methods in a discrete stochastic 
 - Every method benchmarked against optimal policies computed by value iteration,
   rather than against each other
 
-### [Reward-Function-Design-Extension](https://github.com/LouisBennetto/Reward-Function-Design-Extension)
-
-Extends the dissertation into a market-making model, keeping the property
-that made the original work: an optimum that can be computed exactly and used as a
-benchmark.
-
-- Shows the Avellaneda-Stoikov closed form is an asymptotic approximation,
-  over-skewing once inventory skew becomes comparable to the spread
-- Shows the inventory penalty used in practice is a mean-variance expansion of
-  exponential utility, calibrated in closed form by **λ = γσ²Δt / 2**
-- Finds potential-based shaping degrades the objective it was meant to help,
-  by -0.063 in expected wealth, whilst appearing to improve it by +0.057 on a
-  risk-adjusted metric. Both intervals exclude zero and the sign depends entirely
-  on which functional the agent is scored against
-
 ---
 
 ## In progress
