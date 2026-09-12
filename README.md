@@ -22,7 +22,7 @@ BSc dissertation comparing seven reward-design methods in a discrete stochastic 
 
 ### [Reward-Function-Design-Extension](https://github.com/LouisBennetto/Reward-Function-Design-Extension)
 
-Extends the dissertation into the market-making model above, keeping the property
+Extends the dissertation into a market-making model, keeping the property
 that made the original work: an optimum that can be computed exactly and used as a
 benchmark.
 
